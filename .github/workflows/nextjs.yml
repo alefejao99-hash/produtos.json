@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Fone Bluetooth",
+    "preco": "39,90",
+    "img": "https://down-br.img.susercontent.com/file/sample1",
+    "link": "https://s.shopee.com.br/exemplo1"
+  },
+  {
+    "nome": "Relógio Digital",
+    "preco": "49,90",
+    "img": "https://down-br.img.susercontent.com/file/sample2",
+    "link": "https://s.shopee.com.br/exemplo2"
+  },
+  {
+    "nome": "Caixa de Som",
+    "preco": "79,90",
+    "img": "https://down-br.img.susercontent.com/file/sample3",
+    "link": "https://s.shopee.com.br/exemplo3"
+  }
+]
